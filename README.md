@@ -54,7 +54,7 @@ Developed by: RegisterNumber:
 ![df31d38a-9409-4d24-accc-b3347d0abc66](https://github.com/user-attachments/assets/51d0e0c6-14a3-46d1-b1e8-663c641f0f01)
 
 **RESULTS**
-
+successfully implemented Encoder 8 To 3 in Dataflow Modelling using verilog and validated their functional tables
 
 
 
